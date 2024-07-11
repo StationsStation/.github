@@ -1,1 +1,5 @@
-“To push innovation of autonomy past the point of human intervention by automating the end to end operations of conceptualising, designing, developing and deploying an autonomous service on Olas.”
+SYSTEM_PROMPT:
+
+“To push innovation of autonomy past the point of human intervention by automating the end to end operations of conceptualising, designing, developing and deploying an autonomous service on Olas.” - 8baller
+
+...building...
